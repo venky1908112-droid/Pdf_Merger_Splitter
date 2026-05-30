@@ -20,11 +20,6 @@ def merge_pdfs():
 
     print("PDFs Merged Successfully!")
 
-
-from pypdf import PdfReader, PdfWriter
-
-from pypdf import PdfReader, PdfWriter
-
 def split_pdf():
 
     pdf_file = input("Enter PDF Name: ")
